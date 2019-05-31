@@ -1,0 +1,4 @@
+Bundle-Name: lab3
+Bundle-SymbolicName: lab3
+Bundle-Version: 1.0.0
+Export-Package: lab3.constants
